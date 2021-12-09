@@ -35,7 +35,8 @@ The following packages will also need to be installed for successful use of the 
 + [uk-covid19](https://github.com/publichealthengland/coronavirus-dashboard-api-python-sdk)
 + [newsapi](https://newsapi.org/docs/client-libraries/python)
 
-Guidance regarding how to install these Python packages in the command prompt within Windows.
+Guidance regarding how to install these Python packages in the command prompt within Windows
+is contained in the links above as well as below in this README file.
 
 The following modules built in to Python (within the Python Standard Library) are also required:
 
