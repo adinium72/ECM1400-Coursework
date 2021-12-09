@@ -49,7 +49,7 @@ The following modules built in to Python (within the Python Standard Library) ar
 
 The above links are to bring you to the appropriate documentation for each respective Python module in the list.
 
-## Installation / Getting Started
+### Installation
 
 1. First get an api from [here](https://newsapi.org/register)
 2. Then put this apikey into apikey.txt.
