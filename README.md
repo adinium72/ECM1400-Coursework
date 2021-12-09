@@ -93,9 +93,11 @@ Go to localhost:5000/index (http://127.0.0.1:5000/index)
 
 ## License
 
-MIT LICENSE
+Disctributed under the MIT License (see below):
 
-Copyright ( c ) <2021> <Adam Cherfi>
+**MIT License**
+
+Copyright (c) 2021 Adam Cherfi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
