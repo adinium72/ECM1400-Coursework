@@ -3,8 +3,8 @@
 The following application is the personalised COVID-19 data dashboard for the ECM1400 Programming module's continuous assessment coursework. 
 The coursework is 100% of the module's grade and adheres to the specification and mark scheme guidelines detailed in the links below:
 
-INSERT GITHUB LINK
-INSERT GITHUB LINK
++ INSERT GITHUB LINK
++ INSERT GITHUB LINK
 
 The data dashboard application coordinates information about the UK's local and national COVID infection rates from the official Public Health England API 
 and news stories (articles) about COVID-19 from the news API provided by "https://newsapi.org/".
@@ -23,8 +23,12 @@ Here is what the dashboard looks like:
 
 ### Prerequisites
 
-The python version used for development of this project 
-+ [python 3.9 +](www.python.org/downloads/release/python-399)
+The python version used for development of this project was:
++ [Python 3.8.0](https://www.python.org/downloads/release/python-380/)
+This can be downloaded by clicking the link above.
+
+Any subsequent releases of python (3.8.0+) can also be used
+
 + [uk-covid19](https://github.com/publichealthengland/coronavirus-dashboard-api-python-sdk)
 + [newsapi](https://newsapi.org/docs/client-libraries/python)
 
