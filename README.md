@@ -13,9 +13,10 @@ The dashboard helps a user visualize the data streams provided by these APIs and
 articles respectively by retrieving the newest data from each of the APIs via use of a front-end web template. Users can also choose to make these updates 
 repeat at the same time daily.
 
-## Features or examples
+## Features
 
-Here is what the dashboard looks like:
+Here is what the data dashboard looks like. Particularly this is the front-end web template the data dasboard makes use of to provide
+a graphical user interface:
 
 ![Dash board photo]()
 
