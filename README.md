@@ -1,16 +1,17 @@
-# ECM1400 Personalised Covid-19 Data Dashboard Coursework
+# ECM1400 Personalised COVID-19 Data Dashboard Coursework
 
-The following application is the personalised Covid-19 data dashboard for the ECM1400 module's continuous assessment coursework. 
-The coursework is 100% of the module's grade and adheres the specification and mark scheme guidelines detailed in the links below:
+The following application is the personalised COVID-19 data dashboard for the ECM1400 Programming module's continuous assessment coursework. 
+The coursework is 100% of the module's grade and adheres to the specification and mark scheme guidelines detailed in the links below:
 
 INSERT GITHUB LINK
 INSERT GITHUB LINK
 
-The data dashboard application coordinates information about the COVID infection rates from the official Public Health England API and news
-stories (articles) about COVID-19 from the news API provided by "https://newsapi.org/".
+The data dashboard application coordinates information about the UK's local and national COVID infection rates from the official Public Health England API 
+and news stories (articles) about COVID-19 from the news API provided by "https://newsapi.org/".
 
 The dashboard helps a user visualize the data streams provided by these APIs and enables users to schedule and cancel updates for the COVID data and news 
-articles respectively by retrieving the newest data from each of the APIs. Users can also choose to make these updates repeat at the same time daily.
+articles respectively by retrieving the newest data from each of the APIs via use of a front-end web template. Users can also choose to make these updates 
+repeat at the same time daily.
 
 ## Features or examples
 
