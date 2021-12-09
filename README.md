@@ -76,13 +76,18 @@ into the windows command prompt:
 
 ## Usage
 
-
+To run the application open the Windows command prompt, navigate to the correct directory
+by means of the ***cd*** command and then type the command:
 ```sh
 python main.py
 ```
+
+Next, open a browser; preferably Google Chrome and enter the following URL into the search bar: 
+
 ```sh 
-Go to localhost:5000/index (http://127.0.0.1:5000/index)
+http://127.0.0.1:5000/index
 ```
+
 ## Authors
 
 **Author**: Adam Cherfi (*adinium72*)
@@ -97,7 +102,7 @@ Disctributed under the MIT License (see below):
 
 **MIT License**
 
-Copyright ( c ) <2021> <Adam Cherfi>
+Copyright (c) <2021> <Adam Cherfi>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
