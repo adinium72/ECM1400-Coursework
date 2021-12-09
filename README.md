@@ -25,6 +25,7 @@ Here is what the dashboard looks like:
 
 The python version used for development of this project was:
 + [Python 3.8.0](https://www.python.org/downloads/release/python-380/)
+
 This can be downloaded by clicking the link above.
 
 Any subsequent releases of python (3.8.0+) can also be used
