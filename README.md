@@ -23,7 +23,7 @@ Here is what the dashboard looks like:
 
 ### Prerequisites
 
-The python version used for development of this project was:
+The python version used for development of this application/program was:
 + [Python 3.8.0](https://www.python.org/downloads/release/python-380/)
 
 This can be downloaded by clicking the link above.
@@ -54,7 +54,7 @@ The above links are to bring you to the appropriate documentation for each respe
 ### Installation
 
 1. First get a unique personal API key for using the News API and its data within the application from [here](https://newsapi.org/register)
-2. Put this API key into the provided config.json(INSERT GITHUB LINK).
+2. Put this API key into the provided config.json(INSERT GITHUB LINK) file.
 3. Install Python 3.8+ (using the link provided in ***Prerequisites***)
 4. Install the required Python packages (no virtual environments used) by typing the following commands 
 into the windows command prompt:
@@ -74,12 +74,14 @@ into the windows command prompt:
     
 
 ## Usage
+
+
 ```sh
-    python main.py
-    ```
-    ```sh 
-    Go to localhost:5000/index (http://127.0.0.1:5000/index)
-    ```
+python main.py
+```
+```sh 
+Go to localhost:5000/index (http://127.0.0.1:5000/index)
+```
 ## Contributors
 
 Adam Cherfi (adinium72)
