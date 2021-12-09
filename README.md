@@ -82,9 +82,13 @@ python main.py
 ```sh 
 Go to localhost:5000/index (http://127.0.0.1:5000/index)
 ```
-## Contributors
+## Authors
 
-Adam Cherfi (adinium72)
+**Author**: Adam Cherfi (*adinium72*)
+
+**Contact**: amc267@exeter.ac.uk
+
+**Project Link**: INSERT GITHUB LINK
 
 ## License
 
