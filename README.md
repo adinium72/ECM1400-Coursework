@@ -19,9 +19,11 @@ Here is what the dashboard looks like:
 
 ![Dash board photo]()
 
-## Requirement(s)
+## Getting Started
 
-These are the requirements:
+### Prerequisites
+
+The python version used for development of this project 
 + [python 3.9 +](www.python.org/downloads/release/python-399)
 + [uk-covid19](https://github.com/publichealthengland/coronavirus-dashboard-api-python-sdk)
 + [newsapi](https://newsapi.org/docs/client-libraries/python)
