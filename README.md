@@ -32,6 +32,7 @@ Any subsequent releases of python (3.8.0+) can also be used
 
 The following packages will also need to be installed for successful use of the program:
 + [flask](https://flask.palletsprojects.com/en/2.0.x/installation/)
++ [requests](https://pypi.org/project/requests/)
 + [uk-covid19](https://github.com/publichealthengland/coronavirus-dashboard-api-python-sdk)
 + [newsapi](https://newsapi.org/docs/client-libraries/python)
 
@@ -47,26 +48,30 @@ The following modules built in to Python (within the Python Standard Library) ar
 + [time](https://docs.python.org/3/library/time.html)
 + [logging](https://docs.python.org/3/library/logging.html)
 
+
 The above links are to bring you to the appropriate documentation for each respective Python module in the list.
 
 ### Installation
 
-1. First get an api from [here](https://newsapi.org/register)
-2. Then put this apikey into apikey.txt.
-3. Then install python3.9 +
-4. You can either install the modules or use the virtual environments to run the project:
-Without venvs:
-    ```sh 
-    pip3 install uk-covid19
+1. First get a unique personal API key for using the News API and its data within the application from [here](https://newsapi.org/register)
+2. Put this API key into the provided config.json(INSERT GITHUB LINK).
+3. Install Python 3.8+ (using the link provided in ***Prerequisites***)
+4. Install the required Python packages (no virtual environments used):
+
+    ```sh
+    pip install Flask
     ```
     ```sh 
-    pip3 install newsapi-python
+    pip install uk-covid19
+    ```
+    ```sh 
+    pip install newsapi-python
     ```
     ```sh
-    python3 main.py
+    python main.py
     ```
     ```sh 
-    Go to localhost:5000/index
+    Go to localhost:5000/index (http://127.0.0.1:5000/index)
     ```
 
 ## Usage
