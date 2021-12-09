@@ -7,7 +7,7 @@ The coursework is 100% of the module's grade and adheres to the specification an
 + INSERT GITHUB LINK
 
 The data dashboard application coordinates information about the UK's local and national COVID infection rates from the official Public Health England API 
-and news stories (articles) about COVID-19 from the news API provided by "https://newsapi.org/".
+and news stories (articles) about COVID-19 from the news API provided by https://newsapi.org/.
 
 The dashboard helps a user visualize the data streams provided by these APIs and enables users to schedule and cancel updates for the COVID data and news 
 articles respectively by retrieving the newest data from each of the APIs via use of a front-end web template. Users can also choose to make these updates 
@@ -30,8 +30,23 @@ This can be downloaded by clicking the link above.
 
 Any subsequent releases of python (3.8.0+) can also be used
 
+The following packages will also need to be installed for successful use of the program:
++ [flask](https://flask.palletsprojects.com/en/2.0.x/installation/)
 + [uk-covid19](https://github.com/publichealthengland/coronavirus-dashboard-api-python-sdk)
 + [newsapi](https://newsapi.org/docs/client-libraries/python)
+
+Guidance regarding how to install these Python packages in the command prompt within Windows.
+
+The following modules built in to Python (within the Python Standard Library) are also required:
+
++ [json](https://docs.python.org/3/library/json.html)
++ [csv](https://docs.python.org/3/library/csv.html)
++ [datetime](https://docs.python.org/3/library/datetime.html)
++ [sched](https://docs.python.org/3/library/sched.html)
++ [time](https://docs.python.org/3/library/time.html)
++ [logging](https://docs.python.org/3/library/logging.html)
+
+The above links are to bring you to the appropriate documentation for each respective Python module in the list.
 
 ## Installation / Getting Started
 
