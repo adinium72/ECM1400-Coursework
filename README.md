@@ -56,10 +56,14 @@ The above links are to bring you to the appropriate documentation for each respe
 1. First get a unique personal API key for using the News API and its data within the application from [here](https://newsapi.org/register)
 2. Put this API key into the provided config.json(INSERT GITHUB LINK).
 3. Install Python 3.8+ (using the link provided in ***Prerequisites***)
-4. Install the required Python packages (no virtual environments used):
+4. Install the required Python packages (no virtual environments used) by typing the following commands 
+into the windows command prompt:
 
     ```sh
     pip install Flask
+    ```
+    ```sh
+    python -m pip install requests
     ```
     ```sh 
     pip install uk-covid19
@@ -67,15 +71,15 @@ The above links are to bring you to the appropriate documentation for each respe
     ```sh 
     pip install newsapi-python
     ```
-    ```sh
+    
+
+## Usage
+```sh
     python main.py
     ```
     ```sh 
     Go to localhost:5000/index (http://127.0.0.1:5000/index)
     ```
-
-## Usage
-
 ## Contributors
 
 Adam Cherfi (adinium72)
