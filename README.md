@@ -100,12 +100,15 @@ From here you can delete news article widgets by clicking the **'X'** button on 
 
 You can also schedule a named update of the COVID API data and/or the news articles displayed from the news API at a given time.
 This is done by entering a time and title into the relevant input widgets provided on the dashboard interface. The relevant checkboxes for
-updating the Covid data and news data that are displayed on the dashboard should also be selected appropriately when scheduling an update.
+updating the Covid data and news data that are displayed on the dashboard should also be selected appropriately when scheduling an update. Then,
+the update is scheduled when the submit button widget is clicked.
 
 There is also a checkbox widget to select whether you want a given scheduled update to repeat at the same inputted time each day from thereon out.
 
 After a given update (covid and/or news) has been scheduled by the user, a widget for that update appears on the left hand side of the interface.
 These update widgets like the news article widgets can be manually deleted by clicking the **'X'** button on each respective widget.
+
+Covid and news updates can be scheduled independently of each other if need be.
 
 See below, an example of scheduling a covid and news update for 12:01PM:
 
@@ -115,16 +118,20 @@ See below, an example of the before and after of deleting the update widgets fro
 
 ![Dash board photo]()
 
-Note: When news widgets are deleted from the interface, they do not get displayed again on the interface 
+**Note:** When news widgets are deleted from the interface, they do not get displayed again on the interface 
 to the user when a scheduled news update occurs.
 
-Note: 8 news article widgets are always displayed on the interface to the user at any 1 time. Deleting 1 will cause another from the pool of relevant
+**Note:** 8 news article widgets are always displayed on the interface to the user at any 1 time. Deleting 1 will cause another from the pool of relevant
 news API articles to take its place.
 
-Note: When update widgets are deleted from the interface, the scheduld update the respective widget represented gets cancelled and does not occur at its
+**Note:** When update widgets are deleted from the interface, the scheduld update the respective widget represented gets cancelled and does not occur at its
 planned time.
 
-NoteIf a repeated update is scheduled
+**Note** If a non-repeating scheduled update occurs as planned and the data on the dashboard interface is updated to be the most recent from the Covid and/or 
+news APIs, then the update widget associated with that update is deleted from the interface automatically.
+
+**Note** If a repeating scheduled update occurs as planned and the data on the dashboard interface is updated to be the most recent from the Covid and/or 
+news APIs, then the update widget associated with that update remains and keeps being displayed on the interface automatically.
 
 ## Authors
 
