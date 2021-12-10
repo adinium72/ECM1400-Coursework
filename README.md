@@ -24,7 +24,7 @@ a graphical user interface:
 
 ### Prerequisites
 
-The python version used for development of this application/program was:
+The Python version used for development of this application/program was:
 + [Python 3.8.0](https://www.python.org/downloads/release/python-380/)
 
 This can be downloaded by clicking the link above.
@@ -37,7 +37,7 @@ The following packages will also need to be installed for successful use of the 
 + [uk-covid19](https://github.com/publichealthengland/coronavirus-dashboard-api-python-sdk)
 + [newsapi](https://newsapi.org/docs/client-libraries/python)
 
-Guidance regarding how to install these Python packages in the command prompt within Windows
+Guidance regarding how to install these Python packages in the command prompt within Windows®
 is contained in the links above as well as below in this README file.
 
 The following modules built in to Python (within the Python Standard Library) are also required:
@@ -58,7 +58,7 @@ The above links are to bring you to the appropriate documentation for each respe
 2. Put this API key into the provided config.json(INSERT GITHUB LINK) file.
 3. Install Python 3.8+ (using the link provided in ***Prerequisites***)
 4. Install the required Python packages (no virtual environments used) by typing the following commands 
-into the windows command prompt:
+into the Windows® command prompt:
 
     ```sh
     pip install Flask
@@ -76,7 +76,7 @@ into the windows command prompt:
 
 ## Usage
 
-To run the application open the Windows command prompt, navigate to the correct directory
+To run the application open the Windows® command prompt, navigate to the correct directory
 by means of the ***cd*** command and then type the command:
 ```sh
 python main.py
