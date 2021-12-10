@@ -98,9 +98,11 @@ From here you can delete news article widgets by clicking the **'X'** button on 
 
 **Before:**
 
+
 ![Dash board photo](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/Capture%202.PNG)
 
 **After:**
+
 
 ![Dash board photo](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/Capture%203.PNG)
 
@@ -123,10 +125,16 @@ See below, an example of scheduling a covid and news update for 12:01PM:
 See below, an example of the before and after of deleting the update widgets from the interface:
 
 **Before:**
+
+
 ![Dash board photo](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/Capture%205.PNG)
 
+
 **After:**
+
+
 ![Dash board photo](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/Capture%206.PNG)
+
 
 **Note:** When news widgets are deleted from the interface, they do not get displayed again on the interface 
 to the user when a scheduled news update occurs.
