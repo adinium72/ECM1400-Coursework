@@ -157,7 +157,7 @@ news APIs, then the update widget associated with that update remains and keeps 
 
 **Contact Email**: amc267@exeter.ac.uk
 
-**Project Link**: INSERT GITHUB LINK
+[**Project Link**:](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi)
 
 ## License
 
