@@ -122,15 +122,15 @@ See below, an example of scheduling a covid and news update for 12:01PM:
 
 ![Dash board photo](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/Capture%204.PNG)
 
-See below, an example of the before and after of deleting the update widgets from the interface:
+See below, an example of deleting the 2 update widgets in the above picture from the interface:
 
-**Before:**
+**Deleting the news update widget:**
 
 
 ![Dash board photo](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/Capture%205.PNG)
 
 
-**After:**
+**Deleting the covid update widget:**
 
 
 ![Dash board photo](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/Capture%206.PNG)
