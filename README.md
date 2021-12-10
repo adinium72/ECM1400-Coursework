@@ -88,23 +88,43 @@ Next, open a browser; preferably Google Chrome™ and enter the following URL in
 http://127.0.0.1:5000/index
 ```
 
-The front-end web template of the dashboard should then display in the GUI format shown below with
+The front-end web template of the dashboard should then display as a GUI shown below with
 data for different UK COVID-19 metrics (returned from the COVID API) displaying in the middle and removable widgets displaying news
 articles related to COVID-19 (returned from the news API):
 
 ![Dash board photo]()
 
-From here you can delete news article widgets by pressing the **'X'** button on each respective widget (see before and after below):
+From here you can delete news article widgets by clicking the **'X'** button on each respective widget (see before and after below):
 
 ![Dash board photo]()
 
 You can also schedule a named update of the COVID API data and/or the news articles displayed from the news API at a given time.
-This is done by entering a time and title into the relevant input widgets provided on the dashboard interface. The relevant tickboxes for
+This is done by entering a time and title into the relevant input widgets provided on the dashboard interface. The relevant checkboxes for
 updating the Covid data and news data that are displayed on the dashboard should also be selected appropriately when scheduling an update.
 
-There is also a tickbox to select 
+There is also a checkbox widget to select whether you want a given scheduled update to repeat at the same inputted time each day from thereon out.
+
+After a given update (covid and/or news) has been scheduled by the user, a widget for that update appears on the left hand side of the interface.
+These update widgets like the news article widgets can be manually deleted by clicking the **'X'** button on each respective widget.
+
+See below, an example of scheduling a covid and news update for 12:01PM:
 
 ![Dash board photo]()
+
+See below, an example of the before and after of deleting the update widgets from the interface:
+
+![Dash board photo]()
+
+Note: When news widgets are deleted from the interface, they do not get displayed again on the interface 
+to the user when a scheduled news update occurs.
+
+Note: 8 news article widgets are always displayed on the interface to the user at any 1 time. Deleting 1 will cause another from the pool of relevant
+news API articles to take its place.
+
+Note: When update widgets are deleted from the interface, the scheduld update the respective widget represented gets cancelled and does not occur at its
+planned time.
+
+NoteIf a repeated update is scheduled
 
 ## Authors
 
