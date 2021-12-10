@@ -56,7 +56,7 @@ The above links are to bring you to the appropriate documentation for each respe
 ### Installation
 
 1. First get a unique personal API key for using the News API and its data within the application from [here](https://newsapi.org/register)
-2. Put this API key into the provided config.json(INSERT GITHUB LINK) file.
+2. Put this API key into the provided config.json file. This can be found [here](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/config.json) 
 3. Install Python 3.8+ (using the link provided in ***Prerequisites***)
 4. Install the required Python packages (no virtual environments used) by typing the following commands 
 into the Windows® command prompt:
