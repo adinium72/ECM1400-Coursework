@@ -92,7 +92,7 @@ The front-end web template of the dashboard should then display as a GUI shown b
 data for different UK COVID-19 metrics (returned from the COVID API) displaying in the middle and removable widgets displaying news
 articles related to COVID-19 (returned from the news API):
 
-![Dash board photo]()
+![Dash board photo](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/Capture%201.PNG)
 
 From here you can delete news article widgets by clicking the **'X'** button on each respective widget (see before and after below):
 
