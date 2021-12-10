@@ -82,7 +82,7 @@ by means of the ***cd*** command and then type the command:
 python main.py
 ```
 
-Next, open a browser; preferably Google Chrome and enter the following URL into the search bar: 
+Next, open a browser; preferably Google Chrome™ and enter the following URL into the search bar: 
 
 ```sh 
 http://127.0.0.1:5000/index
