@@ -88,13 +88,24 @@ Next, open a browser; preferably Google Chrome and enter the following URL into 
 http://127.0.0.1:5000/index
 ```
 
-The front-end web template of the dashboard should then display in the format shown below with
-data for different COVID-19 UK metrics displaying in the middle and removable widgets dispalying news
-articles related to COVID-19:
+The front-end web template of the dashboard should then display in the GUI format shown below with
+data for different UK COVID-19 metrics (returned from the COVID API) displaying in the middle and removable widgets displaying news
+articles related to COVID-19 (returned from the news API):
 
 ![Dash board photo]()
 
-From here you can delete news article widgets by pressing the **'X'**
+From here you can delete news article widgets by pressing the **'X'** button on each respective widget (see before and after below):
+
+![Dash board photo]()
+
+You can also schedule a named update of the COVID API data and/or the news articles displayed from the news API at a given time.
+This is done by entering a time and title into the relevant input widgets provided on the dashboard interface. The relevant tickboxes for
+updating the Covid data and news data that are displayed on the dashboard should also be selected appropriately when scheduling an update.
+
+There is also a tickbox to select 
+
+![Dash board photo]()
+
 ## Authors
 
 **Author**: Adam Cherfi (*adinium72*)
