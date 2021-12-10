@@ -147,7 +147,7 @@ Disctributed under the MIT License (see below):
 
 **MIT License**
 
-Copyright © <2021>  <Adam Cherfi>
+Copyright © <2021> Adam Cherfi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
