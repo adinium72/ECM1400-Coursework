@@ -76,8 +76,8 @@ into the Windows® command prompt:
 
 ## Usage
 
-To run the application open the Windows® command prompt, navigate to the correct directory
-by means of the ***cd*** command and then type the command:
+To run the application open the Windows® command prompt, navigate to the correct directory in which main.py has
+been downloaded into from this repository, by means of the ***cd*** command and then type the command:
 ```sh
 python main.py
 ```
