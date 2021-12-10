@@ -159,7 +159,7 @@ news APIs, then the update widget associated with that update remains and keeps 
 
 **Project Link**: [https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi)
 
-## License
+## Licence
 
 Disctributed under the MIT License (see below):
 
