@@ -36,6 +36,7 @@ The following packages will also need to be installed for successful use of the 
 + [requests](https://pypi.org/project/requests/)
 + [uk-covid19](https://github.com/publichealthengland/coronavirus-dashboard-api-python-sdk)
 + [newsapi](https://newsapi.org/docs/client-libraries/python)
++ [pytest](https://docs.pytest.org/en/6.2.x/getting-started.html)
 
 Guidance regarding how to install these Python packages in the command prompt within Windows®
 is contained in the links above as well as below in this README file.
@@ -145,11 +146,30 @@ news API articles to take its place.
 **Note:** When update widgets are deleted from the interface, the scheduld update the respective widget represented gets cancelled and does not occur at its
 planned time.
 
-**Note** If a non-repeating scheduled update occurs as planned and the data on the dashboard interface is updated to be the most recent from the Covid and/or 
+**Note:** If a non-repeating scheduled update occurs as planned and the data on the dashboard interface is updated to be the most recent from the Covid and/or 
 news APIs, then the update widget associated with that update is deleted from the interface automatically.
 
-**Note** If a repeating scheduled update occurs as planned and the data on the dashboard interface is updated to be the most recent from the Covid and/or 
+**Note:** If a repeating scheduled update occurs as planned and the data on the dashboard interface is updated to be the most recent from the Covid and/or 
 news APIs, then the update widget associated with that update remains and keeps being displayed on the interface automatically.
+
+## Testing
+
+1. Install the required Python package, pytest (no virtual environments used) by typing the following command 
+into the Windows® command prompt:
+
+    ```sh
+    pip install -U pytest
+    ```
+
+2. To run pytest and thus run the test functions provided open the Windows® command prompt, navigate to the correct directory in which
+test_covid_data_handler.py, test_news_data_handling.py and test_main.py have been downloaded into from this repository, 
+by means of the ***cd*** command and then type the command:
+
+```sh
+pytest
+```
+
+The test modules will all be executed and all test functions within them should pass successfully.
 
 ## Authors
 
