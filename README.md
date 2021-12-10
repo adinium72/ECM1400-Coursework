@@ -154,14 +154,14 @@ news APIs, then the update widget associated with that update remains and keeps 
 
 ## Testing
 
-1. Install the required Python package, pytest (no virtual environments used) by typing the following command 
+1. Install the required Python package, pytest, (no virtual environments used) by typing the following command 
 into the Windows® command prompt:
 
     ```sh
     pip install -U pytest
     ```
 
-2. To run pytest and thus run the test functions provided open the Windows® command prompt, navigate to the correct directory in which
+2. To run pytest and thus run the test functions provided, open the Windows® command prompt, navigate to the correct directory in which
 test_covid_data_handler.py, test_news_data_handling.py and test_main.py have been downloaded into from this repository, 
 by means of the ***cd*** command and then type the command:
 
@@ -169,7 +169,8 @@ by means of the ***cd*** command and then type the command:
 pytest
 ```
 
-The test modules will all be executed and all test functions within them should pass successfully.
+The test modules will all be executed and all test functions within them should pass successfully. This will be apparent from within the command
+prompt
 
 ## Authors
 
