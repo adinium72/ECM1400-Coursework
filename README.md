@@ -1,6 +1,6 @@
 # ECM1400 Personalised COVID-19 Data Dashboard Coursework
 
-The following application is the personalised COVID-19 data dashboard for the ECM1400 Programming module's continuous assessment coursework. 
+This application is a personalised (automated) COVID-19 data dashboard for the "ECM1400 - Programming" module's continuous assessment coursework. 
 The coursework is 100% of the module's grade and adheres to the specification and mark scheme guidelines detailed in the links below:
 
 + INSERT GITHUB LINK
@@ -88,11 +88,18 @@ Next, open a browser; preferably Google Chrome and enter the following URL into 
 http://127.0.0.1:5000/index
 ```
 
+The front-end web template of the dashboard should then display in the format shown below with
+data for different COVID-19 UK metrics displaying in the middle and removable widgets dispalying news
+articles related to COVID-19:
+
+![Dash board photo]()
+
+From here you can delete news article widgets by pressing the **'X'**
 ## Authors
 
 **Author**: Adam Cherfi (*adinium72*)
 
-**Contact**: amc267@exeter.ac.uk
+**Contact Email**: amc267@exeter.ac.uk
 
 **Project Link**: INSERT GITHUB LINK
 
@@ -102,7 +109,7 @@ Disctributed under the MIT License (see below):
 
 **MIT License**
 
-Copyright (c) <2021> <Adam Cherfi>
+Copyright © <2021>  <Adam Cherfi>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
