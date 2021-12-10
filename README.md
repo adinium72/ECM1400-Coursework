@@ -15,8 +15,8 @@ repeat at the same time daily.
 
 ## Features
 
-Here is what the data dashboard looks like. Particularly this is the front-end web template the data dasboard makes use of to provide
-a graphical user interface:
+Here is an example of what the personalised data dashboard looks like. Particularly this is the front-end web template the data dasboard makes use of to provide
+a graphical user interface to the user:
 
 ![Dash board photo]()
 
