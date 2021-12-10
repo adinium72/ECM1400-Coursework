@@ -4,7 +4,7 @@ This application is a personalised (automated) COVID-19 data dashboard for the "
 The coursework is 100% of the module's grade and adheres to the specification and mark scheme guidelines detailed in the links below:
 
 + [Coursework Specification](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/CA-specification.pdf)
-+ INSERT GITHUB LINK
++ [Coursework Mark Scheme](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/CA-mark-scheme.pdf)
 
 The data dashboard application coordinates information about the UK's local and national COVID infection rates from the official Public Health England API 
 and news stories (articles) about COVID-19 from the news API provided by https://newsapi.org/.
