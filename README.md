@@ -3,7 +3,7 @@
 This application is a personalised (automated) COVID-19 data dashboard for the "ECM1400 - Programming" module's continuous assessment coursework. 
 The coursework is 100% of the module's grade and adheres to the specification and mark scheme guidelines detailed in the links below:
 
-+ INSERT GITHUB LINK
++ [Coursework Specification](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/CA-specification.pdf)
 + INSERT GITHUB LINK
 
 The data dashboard application coordinates information about the UK's local and national COVID infection rates from the official Public Health England API 
