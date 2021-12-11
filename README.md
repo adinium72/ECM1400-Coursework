@@ -31,7 +31,7 @@ This can be downloaded by clicking the link above.
 
 Any subsequent releases of python (3.8.0+) can also be used
 
-The following packages will also need to be installed for successful use of the program:
+The following packages will also need to be installed for successful use of the application:
 + [flask](https://flask.palletsprojects.com/en/2.0.x/installation/)
 + [requests](https://pypi.org/project/requests/)
 + [uk-covid19](https://github.com/publichealthengland/coronavirus-dashboard-api-python-sdk)
