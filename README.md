@@ -49,6 +49,7 @@ The following modules built in to Python (within the Python Standard Library) ar
 + [sched](https://docs.python.org/3/library/sched.html)
 + [time](https://docs.python.org/3/library/time.html)
 + [logging](https://docs.python.org/3/library/logging.html)
++ [typing](https://docs.python.org/3/library/typing.html)
 
 
 The above links are to bring you to the appropriate documentation for each respective Python module in the list.
