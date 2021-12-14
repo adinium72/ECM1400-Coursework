@@ -1,5 +1,5 @@
 {
-	"api_key":"5e05b86d34344d9390b595f18a9d4d70",
+	"api_key":[INSERT VALID API KEY OBTAINED FROM https://newsapi.org/],
 	"location":"Exeter",
 	"location_type":"ltla",
 	"nation":"England",
