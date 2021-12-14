@@ -197,21 +197,21 @@ pip install pylint
 Pylint was then run by opening the Windows® command prompt, navigating to the correct directory in which
 main.py, covid_data_handler.py and covid_news_handling.py resided together, and typing:
 
-    ```sh
-    python -m pylint main.py
-    ```
+```sh
+python -m pylint main.py
+```
     
-    OR
+OR
     
-    ```sh
-    python -m pylint covid_data_handler.py
-    ```
+```sh
+python -m pylint covid_data_handler.py
+```
     
-    OR
+OR
     
-    ```sh
-    python -m pylint covid_news_handling.py
-    ```
+```sh
+python -m pylint covid_news_handling.py
+```
 
 into the Windows® command prompt. A report of styling and other programming errors present in these modules was
 then returned and used by the Author to aid development and refine the code. This package does not need to be installed
