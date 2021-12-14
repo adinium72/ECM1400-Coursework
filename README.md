@@ -185,7 +185,7 @@ prompt
 
 ## Development Notes:
 
-The Python package ***pylint*** was also used during development, particularly to shephard consistency in line length, variable
+The Python package ***pylint*** was also used during development, particularly to shepherd consistency in line length, variable
 identifiers, indentation and whitespace.
 
 This was installed via the Windows® command prompt, using the command:
