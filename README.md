@@ -55,7 +55,7 @@ The following modules built in to Python (within the Python Standard Library) ar
 The above links are to bring you to the appropriate documentation for each respective Python module in the list.
 
 Furthermore, the module [***Lab_4_time_conversions.py***](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/Lab_4_time_conversions.py) 
-(which should reside in the same directory as main.py and is provided in the GitHub repository) which was created by the author 
+(which should reside in the same directory as main.py and is provided in the GitHub repository (linked in ***Authors***) which was created by the author 
 of this application is required, as it is imported in the body of ***main.py***.
 
 ### Installation
@@ -214,7 +214,7 @@ python -m pylint covid_news_handling.py
 ```
 
 into the Windows® command prompt. A report of styling and other programming errors present in these modules was
-then returned and used by the Author to aid development and refine the code. This package does not need to be installed
+then returned and used by the author to aid development and refine the code. This package does not need to be installed
 by the user and this section of the README is simply for reference.
 
 
