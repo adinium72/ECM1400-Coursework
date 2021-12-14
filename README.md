@@ -54,6 +54,10 @@ The following modules built in to Python (within the Python Standard Library) ar
 
 The above links are to bring you to the appropriate documentation for each respective Python module in the list.
 
+Furthermore, the module [***Lab_4_time_conversions.py***](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/Lab_4_time_conversions.py) 
+(which should reside in the same directory as main.py and is provided in the GitHub repository) made by the author 
+of this application is required, as it is imported in the body of ***main.py***.
+
 ### Installation
 
 1. First get a unique personal API key for using the News API and its data within the application from [here](https://newsapi.org/register)
