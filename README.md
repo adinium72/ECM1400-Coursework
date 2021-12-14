@@ -153,6 +153,11 @@ news APIs, then the update widget associated with that update is deleted from th
 **Note:** If a repeating scheduled update occurs as planned and the data on the dashboard interface is updated to be the most recent from the Covid and/or 
 news APIs, then the update widget associated with that update remains and keeps being displayed on the interface automatically.
 
+Here is an example of what a widget for a repeating scheduled Covid update looks like:
+
+![Dash board photo](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/Capture%207.PNG)
+
+
 ## Testing
 
 1. Install the required Python package, pytest, (no virtual environments used) by typing the following command 
