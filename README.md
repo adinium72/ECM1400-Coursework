@@ -172,7 +172,7 @@ into the Windows® command prompt:
     ```
 
 2. To run pytest and thus run the test functions provided, open the Windows® command prompt, navigate to the correct directory in which
-test_covid_data_handler.py, test_news_data_handling.py and test_main.py have been downloaded into from this repository, 
+test_covid_data_handler.py, test_news_data_handling.py and test_main.py have been downloaded into from the GitHub repository, 
 by means of the ***cd*** command and then type the command:
 
 ```sh
@@ -181,6 +181,42 @@ pytest
 
 The test modules will all be executed and all test functions within them should pass successfully. This will be apparent from within the command
 prompt
+
+
+## Development Notes:
+
+The Python package ***pylint*** was also used during development, particularly to shephard consistency in line length, variable
+identifiers, indentation and whitespace.
+
+This was installed via the Windows® command prompt, using the command:
+
+```sh
+pip install pylint
+```
+    
+Pylint was then run by opening the Windows® command prompt, navigating to the correct directory in which
+main.py, covid_data_handler.py and covid_news_handling.py resided together, and typing:
+
+    ```sh
+    python -m pylint main.py
+    ```
+    
+    OR
+    
+    ```sh
+    python -m pylint covid_data_handler.py
+    ```
+    
+    OR
+    
+    ```sh
+    python -m pylint covid_news_handling.py
+    ```
+
+into the Windows® command prompt. A report of styling and other programming errors present in these modules was
+then returned and used by the Author to aid development and refine the code. This package does not need to be installed
+by the user and this section of the README is simply for reference.
+
 
 ## Authors
 
