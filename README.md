@@ -3,8 +3,8 @@
 This application is a personalised (automated) COVID-19 data dashboard for the "ECM1400 - Programming" module's continuous assessment coursework. 
 The coursework is 100% of the module's grade and adheres to the specification and mark scheme guidelines detailed in the links below:
 
-+ [Coursework Specification](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/CA-specification.pdf)
-+ [Coursework Mark Scheme](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/CA-mark-scheme.pdf)
++ [Coursework Specification](https://github.com/adinium72/ECM1400-Coursework/blob/main/CA-specification.pdf)
++ [Coursework Mark Scheme](https://github.com/adinium72/ECM1400-Coursework/blob/main/CA-mark-scheme.pdf)
 
 The data dashboard application coordinates information about the UK's local and national COVID infection rates from the official Public Health England API 
 and news stories (articles) about COVID-19 from the news API provided by https://newsapi.org/.
@@ -18,7 +18,7 @@ repeat at the same time daily.
 Here is an example of what the personalised data dashboard looks like. Particularly this is the front-end web template the data dasboard makes use of to provide
 a graphical user interface to the user:
 
-![Dash board photo](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/Capture%200.PNG)
+![Dash board photo](https://github.com/adinium72/ECM1400-Coursework/blob/main/Capture%200.PNG)
 
 ## Getting Started
 
@@ -54,14 +54,14 @@ The following modules built in to Python (within the Python Standard Library) ar
 
 The above links are to bring you to the appropriate documentation for each respective Python module in the list.
 
-Furthermore, the module [***Lab_4_time_conversions.py***](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/Lab_4_time_conversions.py) 
+Furthermore, the module [***Lab_4_time_conversions.py***](https://github.com/adinium72/ECM1400-Coursework/blob/main/Lab_4_time_conversions.py) 
 (which should reside in the same directory as main.py and is provided in the GitHub repository (linked in ***Authors***) which was created by the author 
 of this application is required, as it is imported in the body of ***main.py***.
 
 ### Installation
 
 1. First get a unique personal API key for using the News API and its data within the application from [here](https://newsapi.org/register)
-2. Put this API key into the provided config.json file. This can be found [here](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/config.json) 
+2. Put this API key into the provided config.json file. This can be found [here](https://github.com/adinium72/ECM1400-Coursework/blob/main/config.json) 
 3. Install Python 3.8+ (using the link provided in ***Prerequisites***)
 4. Install the required Python packages (no virtual environments used) by typing the following commands 
 into the Windows® command prompt:
@@ -98,19 +98,19 @@ The front-end web template of the dashboard should then display as a GUI shown b
 data for different UK COVID-19 metrics (returned from the COVID API) displaying in the middle and removable widgets displaying news
 articles related to COVID-19 (returned from the news API):
 
-![Dash board photo](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/Capture%201.PNG)
+![Dash board photo](https://github.com/adinium72/ECM1400-Coursework/blob/main/Capture%201.PNG)
 
 From here you can delete news article widgets by clicking the **'X'** button on each respective widget (see before and after below):
 
 **Before:**
 
 
-![Dash board photo](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/Capture%202.PNG)
+![Dash board photo](https://github.com/adinium72/ECM1400-Coursework/blob/main/Capture%202.PNG)
 
 **After:**
 
 
-![Dash board photo](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/Capture%203.PNG)
+![Dash board photo](https://github.com/adinium72/ECM1400-Coursework/blob/main/Capture%203.PNG)
 
 You can also schedule a named update of the COVID API data and/or the news articles displayed from the news API at a given time.
 This is done by entering a time and title into the relevant input widgets provided on the dashboard interface. The relevant checkboxes for
@@ -126,20 +126,20 @@ Covid and news updates can be scheduled independently of each other if need be.
 
 See below, an example of scheduling a covid and news update for 12:01PM:
 
-![Dash board photo](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/Capture%204.PNG)
+![Dash board photo](https://github.com/adinium72/ECM1400-Coursework/blob/main/Capture%204.PNG)
 
 See below, an example of deleting the 2 update widgets in the above picture from the interface:
 
 **Deleting the news update widget:**
 
 
-![Dash board photo](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/Capture%205.PNG)
+![Dash board photo](https://github.com/adinium72/ECM1400-Coursework/blob/main/Capture%205.PNG)
 
 
 **Deleting the covid update widget:**
 
 
-![Dash board photo](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/Capture%206.PNG)
+![Dash board photo](https://github.com/adinium72/ECM1400-Coursework/blob/main/Capture%206.PNG)
 
 
 **Note:** When news widgets are deleted from the interface, they do not get displayed again on the interface 
@@ -159,7 +159,7 @@ news APIs, then the update widget associated with that update remains and keeps 
 
 Here is an example of what a widget for a repeating scheduled Covid update looks like:
 
-![Dash board photo](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi/blob/main/Capture%207.PNG)
+![Dash board photo](https://github.com/adinium72/ECM1400-Coursework/blob/main/Capture%207.PNG)
 
 
 ## Testing
@@ -224,7 +224,7 @@ by the user and this section of the README is simply for reference.
 
 **Contact Email**: amc267@exeter.ac.uk
 
-**Project Link**: [https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi](https://github.com/adinium72/ECM1400-Coursework---Adam-Cherfi)
+**Project Link**: [https://github.com/adinium72/ECM1400-Coursework](https://github.com/adinium72/ECM1400-Coursework)
 
 ## Licence
 
